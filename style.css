@@ -1,0 +1,16 @@
+#heading {
+    background-color: bisque;
+}
+
+#head {
+    color:red;
+}
+
+#label ,#confidence {
+    color: rgb(241, 202, 26);
+}
+
+body{
+    color: blueviolet;
+    background-color: azure;
+}
